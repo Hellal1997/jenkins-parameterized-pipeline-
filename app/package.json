@@ -1,0 +1,13 @@
+{
+  "name": "jenkins-parameterized-pipeline",
+  "version": "1.0.0",
+  "description": "A simple Node.js application for Jenkins pipeline testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
